@@ -6,7 +6,7 @@ This project demonstrates a basic load test on the Google homepage using Apache 
 Test Details
 
 Tool: Apache JMeter 5.6.3
-Website: https://www.google.com/
+Website: Google homepage website
 Method:** GET
 Users:** 10
 Ramp-Up Time:** 5 Seconds
